@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/dash-flask.iml" filepath="$PROJECT_DIR$/../.idea/dash-flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dash_on_flask/.idea/dash_on_flask.iml" filepath="$PROJECT_DIR$/../../dash_on_flask/.idea/dash_on_flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+    </modules>
+  </component>
+</project>
