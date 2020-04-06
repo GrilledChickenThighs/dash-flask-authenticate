@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="dash-flask" />
     <orderEntry type="module" module-name="dash_on_flask" />
+    <orderEntry type="module" module-name="Flask-Mega-Tutorial" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
